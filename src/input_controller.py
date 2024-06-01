@@ -23,3 +23,7 @@ def mouse_release():
 
 def mouse_right_click():
     mouse.click(Button.right, 1)
+
+
+def mouse_left_click():
+    mouse.click(Button.left, 1)
